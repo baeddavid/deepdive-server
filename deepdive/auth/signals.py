@@ -16,8 +16,8 @@ from deepdive.schema import DatabaseSchema, SqlDialect, TableConfig
 DEFAULT_SNOWFLAKE_DATABASE_CONFIG = {
     "database_type": DatabaseType.SNOWFLAKE,
     "name": "Demo Snowflake DB",
-    "username": "bkdevs1",
-    "password": "Percolate1!",
+    "username": "KEY",
+    "password": "KEY",
     "snowflake_account": "fflaogk-lrb26929",
     "snowflake_database": "SNOWFLAKE_SAMPLE_DATA",
     "snowflake_schema": "TPCH_SF1",
