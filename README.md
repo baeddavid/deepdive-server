@@ -31,6 +31,3 @@ This is the backend of DeepDive.
     -   Excel files are stored in S3, downloaded onto disk, loaded into an in-memory SQL db and deleted posthumously (so only reference is in process memory)
     -   social auth and several adapters are implemented
         -   mostly custom because there's a few odd parts of using Django REST with the third party lib that doesn't work well
-
-yeah that's roughly about it.
-we're not planning to maintain the repository, but if anyone is willing (or wants to use it for commercial use), you can reach me at: pybbae@gmail.com# Test Commit
